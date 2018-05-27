@@ -1,4 +1,4 @@
-FROM flatironinstitute/triqs:unstable
+FROM flatironinstitute/triqs:latest
 
 WORKDIR /
 USER root
